@@ -1,0 +1,5 @@
+﻿MySQL-Structure:
+1. title - Entry's name
+2. tags - Tags to filter
+3. content - Entry's content
+
